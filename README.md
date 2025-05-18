@@ -1,47 +1,50 @@
-🧠 Adidas U.S. Sales Dashboard – Power BI Project
-🎓 Final Project – AA-5200: Applied Analytics (Spring 2025)
-This repository contains two Power BI files developed as part of my master’s-level course project. The dashboard analyzes Adidas U.S. sales data for 2020–2021, focusing on regional sales trends and customer behavior across different sales channels.
+# 🧠 Adidas U.S. Sales Dashboard – Power BI Project
 
-📁 Files Included
-File	Description
-Second_deliverable_FP_Team7.pbix	Multi-page Power BI report with separate pages for each research question, including slicers, KPIs, and exploratory visuals.
-Final_deliverable_FP_Team7.pbix	One-page executive dashboard using Berinato’s Setup–Conflict–Resolution framework. Includes navigation buttons, summary pages, and business insights.
+### 🎓 Final Project – AA-5200: Applied Analytics (Spring 2025)
 
-📊 Dashboard Highlights
-Year-over-year comparison of sales & profit
+This repository contains two Power BI files developed as part of my master's-level course project. The dashboard analyzes **Adidas U.S. sales data (2020–2021)**, focusing on regional sales trends and customer behavior across different sales channels.
 
-Regional performance breakdown (line + bar charts)
+---
 
-Sales channel behavior (online, in-store, outlet)
+## 📁 Files Included
 
-Strategic KPIs and monthly trends
+| File | Description |
+|------|-------------|
+| `Second_deliverable_FP_Team7.pbix` | Multi-page Power BI report with slicers, KPIs, and separate visual pages per research question. |
+| `Final_deliverable_FP_Team7.pbix` | One-page executive dashboard using Berinato’s Setup–Conflict–Resolution model, including navigation buttons and summary pages. |
 
-Setup–Conflict–Resolution storytelling layout
+---
 
-“More Info” and “Conclusion” pages built into the final dashboard
+## 📊 Dashboard Highlights
 
-Interactive slicers and filter reset logic
+- 📈 Year-over-year comparison of sales & profit  
+- 🗺️ Regional performance analysis (line + bar charts)  
+- 🛒 Sales channel breakdown (online, in-store, outlet)  
+- 📌 Strategic KPIs and monthly performance trends  
+- 🎯 Setup–Conflict–Resolution storytelling layout  
+- 📂 Includes **"More Info"** and **"Conclusion"** pages  
+- 🎛️ Interactive slicers and reset button logic  
 
-🔗 Dataset Source
-This project uses the Adidas U.S. Sales dataset publicly available on Kaggle.
-Link: Adidas Sales Dataset – Kaggle
+---
 
-👤 Author
-Sesha Sai Bellamkonda
-Master’s in Information Systems | Business Intelligence & Analytics Enthusiast
-LinkedIn Profile (Optional)
+## 🔗 Dataset Source
 
-🛠️ Tools Used
-Microsoft Power BI Desktop
+This project uses the **Adidas U.S. Sales dataset** publicly available on Kaggle.  
+🔗 [View Dataset on Kaggle](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
 
-DAX & Power Query
+---
 
-Data visualization best practices
+## 👤 Author
 
-Storytelling for business decision-making
+**Sesha Sai Bellamkonda**  
+Master’s in Information Systems  
+Business Intelligence & Analytics Enthusiast  
+LinkedIn Profile : https://www.linkedin.com/in/sesha-sai-bellamkonda-99292324a/
 
-📌 Tags
-#PowerBI #DataVisualization #BusinessIntelligence #AdidasDashboard #ExecutiveDashboard #StorytellingWithData
+---
 
-🔥 Preview
-To view the dashboard, download the .pbix files and open them in Power BI Desktop.
+## 🛠️ Tools Used
+
+- Microsoft Power BI Desktop  
+- DAX, Power Query  
+- Data storytelling best practices  
